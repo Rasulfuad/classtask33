@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fuad\\Desktop\\Classtask3\\classtask3\\classtask3\\classtask3.csproj": {}
+    "C:\\Users\\fuad\\Desktop\\classtask33\\Classtask3\\classtask3\\classtask3\\classtask3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fuad\\Desktop\\Classtask3\\classtask3\\classtask3\\classtask3.csproj": {
+    "C:\\Users\\fuad\\Desktop\\classtask33\\Classtask3\\classtask3\\classtask3\\classtask3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fuad\\Desktop\\Classtask3\\classtask3\\classtask3\\classtask3.csproj",
+        "projectUniqueName": "C:\\Users\\fuad\\Desktop\\classtask33\\Classtask3\\classtask3\\classtask3\\classtask3.csproj",
         "projectName": "classtask3",
-        "projectPath": "C:\\Users\\fuad\\Desktop\\Classtask3\\classtask3\\classtask3\\classtask3.csproj",
+        "projectPath": "C:\\Users\\fuad\\Desktop\\classtask33\\Classtask3\\classtask3\\classtask3\\classtask3.csproj",
         "packagesPath": "C:\\Users\\fuad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fuad\\Desktop\\Classtask3\\classtask3\\classtask3\\obj\\",
+        "outputPath": "C:\\Users\\fuad\\Desktop\\classtask33\\Classtask3\\classtask3\\classtask3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

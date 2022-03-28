@@ -10,7 +10,8 @@ namespace classtask3.Models
             get { return _Name; }
             set
             {
-                if (char.IsUpper(value[0]) && 3 <= value.Length && value.Length <= 30)
+                if (char.IsUpper(value[0])==false && 3 >= value.Length && value.Length >= 30)
+                    Console.WriteLine("duzgun deyil");
                 {
                     _Name = value;
                 }
@@ -28,7 +29,7 @@ namespace classtask3.Models
             get { return _Surname; }
             set
             {
-                if (char.IsUpper(value[0]) && 3 <= value.Length && value.Length >= 35)
+                if (char.IsUpper(value[0])==false && 3 >= value.Length && value.Length <= 35)
 
                     _Surname = value;
             }

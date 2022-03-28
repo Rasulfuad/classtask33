@@ -1,4 +1,6 @@
-﻿namespace classtask3.Models
+﻿using System;
+namespace classtask3.Models
+
 {
     internal class Student:Person
     {
@@ -7,9 +9,9 @@
         {
             get { return _Point; }
             set
-            { if (value >=0 && value <=100) 
+            { if (value <=0 && value >=100)
 
-
+                   Console.WriteLine("menfi ola bilmez");
 
                 _Point = value;
             }
@@ -24,5 +26,7 @@
             Name = name;
             Age= age;
         }
+
+        
     }
 }

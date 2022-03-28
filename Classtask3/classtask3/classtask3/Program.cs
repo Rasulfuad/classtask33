@@ -8,22 +8,21 @@ namespace classtask3
         {
             Student[] students = new Student[1];
 
-            string name;
-            string surname;
-            int age;
-            int point;
+            
+             
+            
 
             Console.Write("Ad daxil edin: ");
-            name = Console.ReadLine();
+            string name = Console.ReadLine();
 
             Console.Write("Soyad daxil edin: ");
-            surname = Console.ReadLine();
+            string surname = Console.ReadLine();
 
             Console.Write("Yasinizi daxil edin: ");
-            age = int.Parse(Console.ReadLine());
+            int age = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("Point  daxil edin: ");
-            point = int.Parse(Console.ReadLine());
+            int point = Convert.ToInt32(Console.ReadLine());
 
         }
     }
